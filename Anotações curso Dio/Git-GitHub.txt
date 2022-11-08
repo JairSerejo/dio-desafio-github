@@ -1,0 +1,8 @@
+Comandos Básicos
+Ls - Listar
+Add - Adicionar
+Commit 
+Status
+Config
+Pull
+Push
